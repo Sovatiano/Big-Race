@@ -34,4 +34,3 @@ def record(score):
 
 def drawing(screen_name, image, x, y):
     screen_name.blit(image, (x, y))
-
